@@ -235,14 +235,14 @@ h1 {
     list-style-type: decimal;
 }
 #listas .customico li  {
-    list-style-image: url(img/Hamper.png);
+    list-style-image: url(web/img/Hamper.png);
 }
 #listas .customico li li {
-    list-style-image: url(img/Hamper.png);
+    list-style-image: url(web/img/Hamper.png);
 }
 
 #listas .customico li li li{
-    list-style-image: url(img/Hamper.png);
+    list-style-image: url(web/img/Hamper.png);
 }
 #listas .listadefcustom  {
     width: 30%;
