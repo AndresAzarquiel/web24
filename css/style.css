@@ -123,7 +123,7 @@ nav li {
         font-size: 30px;
     }
     nav ul {
-        background-color: rgb(243, 251, 254);
+        background-color: (rgb(243, 251, 254));
     }
 }
 
@@ -256,8 +256,10 @@ h1 {
     background-color:rgb(235, 58, 58);
   }
 .horario {
-    width: 80%;
+    width: 60%;
     margin: 0 auto;
+    text-align: center;
+    background-color: rgb(240, 240, 240);
 }
 .bdd{
     background-color: rgb(125, 255, 126);
@@ -294,6 +296,7 @@ background-color: rgb(255, 200, 151);
 }
 .letradam{
     color: rgb(19, 116, 138);
+    font-style: italic;
 }
 .w80 {
     width: 80%;
@@ -317,7 +320,7 @@ background-color: rgb(255, 200, 151);
 .formhtml5 {
     width: 50%;
     margin: 0 auto;
-    background-color: aquamarine;
+    background-color: rgb(159,89,200);
 }
 .formhtml5 legend {
     background-color: rgb(6, 6, 71);
@@ -358,7 +361,7 @@ audio {
     text-align: center;
 }
 #listas dl{
-    background-color: turquoise;
+    background-color: rgb(89, 159, 24);
     font-weight:bold ;
     font-size: 24px;
     width:  8%;
